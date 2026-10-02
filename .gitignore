@@ -100,3 +100,7 @@ Thumbs.db
 # Shell scripts (keep examples only)
 *.sh
 !run_example.sh
+
+# Benchmark caches
+results/*.bin
+results/*.safetensors
